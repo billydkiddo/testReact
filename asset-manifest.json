@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.693c45f7.js",
+    "static/media/shoes.png": "/static/media/shoes.60e7eb2581b923ddc390.png",
+    "static/media/mall.png": "/static/media/mall.4ca7ac7231594b3d1f06.png",
+    "static/media/mens.png": "/static/media/mens.7f121bd9b33d07343a39.png",
+    "static/media/women.png": "/static/media/women.9a1a684cebe8599d2d6c.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.693c45f7.js.map": "/static/js/main.693c45f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.693c45f7.js"
+  ]
+}
